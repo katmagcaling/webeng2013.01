@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+    <html>
+    <head style="font-family: Arial";"font-size:13px";>
+    <title>My first HTML project</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
+    </head>
+    <body>
+    <body style="background-color:gold";>    
+ 
+    <h1>Welcome to my Website!</h1>
+    
+    <h2>Katrina Magcaling</h2>
+   
+    <p style="background-color=white;">About me: 
+    <br>
+    I'm a Filipino studying Informatik at the Technische Hochschule Mittelhessen.<br>
+    I can speak Filipino, English and German.
+    </p>  
+    <script src="http://code.jquery.com/jquery.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    </body>
+    </html>
